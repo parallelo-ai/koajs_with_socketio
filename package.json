@@ -1,0 +1,17 @@
+{
+  "name": "koajs_with_socketio",
+  "version": "1.0.0",
+  "description": "KoajS with Socketio implementation",
+  "main": "index.js",
+  "author": "Daniel-M",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-logger": "^3.2.0",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^7.4.0",
+    "koa-socket-2": "^1.0.17",
+    "koa-static": "^5.0.0",
+    "koa-static-server": "^1.3.4"
+  }
+}
